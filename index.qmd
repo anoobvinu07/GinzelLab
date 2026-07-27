@@ -1,11 +1,144 @@
 ---
-title: "GinzelLab"
+format: 
+  html:
+    page-layout: article
+    toc: false
+    sidebar: false
+    anchor-sections: false
+    theme:
+      light: style2.scss
+      dark: style2-dark.scss
+    css: [index.css]
+image: "img/"
+title: "Forest Health Laboratory"
+# about:
+#   template: marquee
+  # id: about-block
+  # image-width: "100%"
 ---
 
-This is a Quarto website.
+_Welcome to Matthew Ginzel's Forest Health Laboratory_
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+We are broadly interested in the chemically-mediated host colonization and mating behaviors of wood-boring beetles. North American hardwood forests are increasingly threatened by a litany of indigenous and invasive wood-boring insect pests. In fact, wood-boring beetles are among the most economically important pests of woody plants in natural and managed systems. Unfortunately, the destructive nature of many wood-boring insects is exacerbated by difficulty in controlling their populations. Because they spend the majority of their lives concealed beneath the bark of trees, these insects are physically protected from sprayed pesticides. The long term goal of my research program is to develop effective pest management tactics targeting the chemically-mediated mating system of the beetles.
 
-```{r}
-1 + 1
-```
+This information will be useful in establishing effective management programs, such as by optimizing survey strategies, developing arboricultural techniques to bolster resistance, and improving methods for detecting invasive species to improve the health, quality, and productivity of North American hardwood forests.
+
+
+
+
+
+::: {.column-screen}
+![](img/)
+::: 
+
+::: {.column-screen}
+<div class="section-separator"></div>
+:::
+
+
+
+
+
+
+
+
+<!---start news here --->
+
+::: {.column-page}
+
+
+[News and updates]{style="font-size: 2.0rem; font-weight: 600; display: block; margin-bottom: 0.25rem; color: #cfd217"}
+
+<div class="section-separator"></div>
+
+::::: {layout="[ 20, 80 ]"}
+::: {#first-column}
+
+![](img/Purdue/PFEN226.jpg){width=30% .lightbox group="news"}
+
+:::
+::: {#second-column}
+
+[Jan 20th, 2026]{style="font-size: 1.2rem; font-weight: 600; display: block; margin-bottom: 0.25rem; color: #b82601;"}  
+
+Updates regarding [HTIRC](https://htirc.org/) or recruitment notice.
+
+:::
+:::::
+
+
+<div class="section-separator"></div>
+
+::::: {layout="[ 20, 80 ]"}
+::: {#first-column}
+
+![](img/PhD/withLabbies.jpg){width=30% .lightbox group="news"}
+
+:::
+::: {#second-column}
+
+[Nov 14th, 2025]{style="font-size: 1.2rem; font-weight: 600; display: block; margin-bottom: 0.25rem; color: #b82601;"}  
+
+Update 2.
+
+:::
+:::::
+
+
+
+
+:::
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+::: {.column-screen}
+<div class="section-separator"></div>
+:::
+
+<!---footer figs --->
+
+:::::: {.column-body}
+::::: {layout="[ 20,20,20,20 ]"}
+::: {#first-column}
+![](img/){.about-photo width=30%}
+:::
+::: {#second-column}
+![](img/){.about-photo width=30%}
+:::
+::: {#third-column}
+![](img/){.about-photo width=30%}
+:::
+::: {#fourth-column}
+![](img/){.about-photo width=30%}
+:::
+:::::
+::::::
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,634 @@
+/*-- scss:defaults --*/
+
+// Import fonts (define mainfont in _quarto.yml)
+/*@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Nunito:wght@300&family=Roboto+Mono:wght@300&display=swap');*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;800&family=Nunito:wght@300;800&family=Roboto+Mono:wght@400;700&display=swap');
+
+// Colors
+$light-sage-green: #D1D9CE;
+$dark-sage-green: #98A08D;
+$cream: #f8f8ff ; //main bg color used here - make changes here    //#FDFBF7; //originial
+$cream1: #FDFBF7;
+$white: #f6f6f2;
+$dark-gray: #5A5856;
+$gray: #64605f;
+$light-gray: #949799;
+$purple: #9158A2; //#AE8BD1;
+$black: #000000;
+$burnt-orange: #ad7237;
+$darkteal: #388087;
+$teal: #6fb3b8;
+$lightgreen: #c2edce;
+$ember: #b82601;
+
+// Base document colors
+$navbar-bg: $black;
+$navbar-fg: $white; 
+$navbar-hl: $ember; 
+$body-bg: $black;
+$body-color: $white;
+$footer-bg: $black; 
+$link-color: $lightgreen;
+
+// Inline code
+$code-bg: $cream;
+$code-color: $burnt-orange; //$purple; 
+
+// Code blocks
+$code-block-bg: $cream;
+
+/*-- scss:rules --*/
+
+/* ELEMENT SELECTORS */
+
+h1, h2, h3, h4, h5, h6 {
+  letter-spacing: 1px;
+  font-weight: 500;
+  color: $ember;
+}
+
+h3 {
+  font-size: 35px;
+}
+
+body {
+  line-height: 1.5; // min 1.5 suggested for assistive tech
+  font-size: 19.5px;
+}
+
+/* ID selectors */
+
+// responsive-ish iframes (width adjusts to viewport size; couldn't figure out how to expand viewport height, so set to this size for now)
+#map-size {
+  width: 100%;
+  height: 350px;
+}
+
+.figure-caption {
+  color: $gray;
+  font-style: italic;
+}
+
+/* CLASS SELECTORS (self-defined) */
+
+// subtitles used with trestles template (currently using jolla)
+/*.custom-subtitle {
+  font-size: 22px;
+  margin-bottom: 0.15em;
+}
+
+.custom-subtitle2 {
+  font-size: 20px;
+  font-style: italic;
+}*/
+
+// larger text
+.large-text {
+  font-size: 25px;
+}
+
+// slightly smaller than default text
+.small-text {
+  font-size: 17px;
+}
+
+// smallest text
+.extra-small-text{
+  font-size: 14px;  
+}
+
+// extra space above line of text (but not as much as <br>)
+.topbr {
+    display: block;
+    margin-top: 1em;
+}
+
+// center align text
+.center-text {
+  text-align: center;
+  left: 50%;
+}
+
+// dark gray text
+.dark-gray-text{
+  color: $dark-gray;
+}
+
+// gray-italic text (mostly used for captions)
+.gray-italic {
+  color: $gray;
+  font-style: italic;
+  font-size: 17px;
+}
+
+// gray background
+.quote-text-bg {
+  background-color: rgba(152, 160, 141, 0.3); //rgba(166, 164, 161, 0.4);
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-right: 5px;
+  padding-left: 8px;
+  border-radius: 15px;
+}
+
+// btn styling
+.btn {
+  color: $dark-gray;
+  background-color: $cream; //$light-sage-green;
+  border-color: $dark-gray;
+}
+
+// button hover styling
+.btn:hover {
+  color: $cream;
+  background-color: $purple;
+  border-color: $dark-gray;
+}
+
+// image styling
+.img-styling {
+  border-radius: 2%;
+  border: 2px solid $gray;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ //width: 80%;
+}
+
+// center image only
+.center-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* CLASS SELECTORS (copied from inspecting site -- Quarto defined?) */
+
+// resize logo (top left corner) see https://github.com/robertmitchellv/robertmitchellv.github.io/blob/main/custom-dark.scss
+.navbar-brand img { 
+  max-height: 60px;
+  width: auto;
+}
+
+// headshot shape
+.rounded { 
+    border-radius: 50px 20px 50px 20px !important;
+}
+
+// button text size (landing page)
+.about-link-text { 
+  font-size: 18px;
+}
+
+// button icon size (landing page)
+.bi { 
+  font-size: 18px;
+}
+
+// listing card styling
+.card {
+  background-color: $cream;
+  //border-radius: 5.25em;
+}
+
+// listing description text styling
+.description {
+  font-size: 25px;
+}
+
+
+
+// about page link button colors 
+div.quarto-about-jolla .about-link {
+  color: $dark-sage-green;
+}
+
+
+
+// photo gallery layout 
+// photo grid
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(18px, 5fr));
+  gap: 1em;
+  margin: 2em 0;
+  justify-content: center; /* centers the grid horizontally */
+}
+
+.photo-grid img {
+  width: 20%;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  transition: transform 0.2s;
+}
+.photo-grid img:hover {
+  transform: scale(3.04);
+}
+
+
+
+// profile photo layout 
+.profile-photo {
+  display: block;
+  margin: 2em auto;        /* centers the image horizontally */
+  width: 180px;            /* sets a fixed width for the profile photo */
+  max-width: 100%;         /* makes the photo responsive */
+  border-radius: 40% / 25%;      /* makes the photo circular */
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08); /* adds subtle shadow */
+  transition: transform 0.2s;
+}
+.profile-photo:hover {
+  transform: scale(1.50);  /* slight zoom on hover */
+}
+
+// panorama photo layout
+.panorama-photo {
+  display: block;
+  margin: 2em auto;        /* centers the image horizontally */
+  width: 100%;            /* sets a fixed width for the profile photo */
+  max-width: 100%;         /* makes the photo responsive */
+  border-radius: 8px;      /* makes the photo circular */
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08); /* adds subtle shadow */
+  transition: transform 0.2s;
+}
+.panorama-photo:hover {
+  transform: scale(1.20);  /* zoom on hover */
+}
+
+
+// margin photo layout
+
+// profile photo layout 
+.margin-photo {
+  display: block;
+  margin: 2em auto;        /* centers the image horizontally */
+  width: 100%;            /* sets a fixed width for the profile photo */
+  max-width: 100%;         /* makes the photo responsive */
+  border-radius: 8px;      
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08); /* adds subtle shadow */
+  transition: transform 0.2s;
+}
+.margin-photo:hover {
+  transform: scale(1.50);  /* zoom on hover */
+}
+
+
+.footer-logos {
+  display: flex;
+  justify-content: center;
+  gap: 2.5rem;   /* bigger gap between logos */
+  margin-top: 0.5rem;
+  padding-top: 0.5rem;
+}
+
+.footer-logos a {
+  display: inline-block;
+}
+
+.footer-logos img {
+  width: 38px;              /* smaller size */
+  height: 38px;
+  transition: transform 0.2s ease, filter 0.2s ease;
+  filter: grayscale(50%) brightness(0.9);  /* muted default */
+}
+
+/* hover: zoom + colorize */
+.footer-logos a:hover img {
+  transform: scale(1.25);
+  filter: grayscale(0%) brightness(1.1) saturate(1.4);
+}
+
+.section-separator {
+  width: 60%;
+  max-width: 500px;
+  height: 1px;
+  margin: 2rem auto 1.5rem auto; /* space around the line */
+  background: linear-gradient(
+    to right,
+    transparent,
+    #b0b0b0,
+    transparent
+  );
+  border-radius: 999px;
+  opacity: 0.9;
+}
+.cv-hero {
+  text-align: center;
+  padding: 2.5rem 1rem 2rem 1rem;
+  margin-bottom: 1.5rem;
+  border-radius: 16px;
+  background: radial-gradient(circle at top left, rgba(111,179,184,0.25), transparent 55%),
+              radial-gradient(circle at bottom right, rgba(145,88,162,0.22), transparent 55%);
+  border: 1px solid rgba(255,255,255,0.06);
+}
+
+.cv-name {
+  font-size: 2.2rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  color: #f5f5f5;
+}
+
+.cv-title {
+  margin-top: 0.3rem;
+  font-size: 1.05rem;
+  color: #c7c7c7;
+}
+
+.cv-meta {
+  margin-top: 0.8rem;
+  font-size: 0.95rem;
+  color: #aaaaaa;
+}
+
+.cv-meta a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px dotted rgba(255,255,255,0.25);
+}
+
+.cv-meta a:hover {
+  color: #c59cff;
+  border-bottom-color: #c59cff;
+}
+
+.cv-actions {
+  margin-top: 1.2rem;
+}
+
+.cv-actions .btn {
+  border-radius: 999px;
+  padding: 0.45rem 1.4rem;
+  font-size: 0.95rem;
+}
+
+/* Section “cards” */
+.cv-section {
+  background-color: rgba(20, 20, 24, 0.95);
+  border-radius: 12px;
+  padding: 1.4rem 1.6rem;
+  margin-bottom: 1.1rem;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.6);
+  border: 1px solid rgba(255,255,255,0.04);
+}
+
+.cv-section > h2 {
+  margin-top: 0;
+  font-size: 1.25rem;
+  letter-spacing: 0.02em;
+  color: #f2f2f2;
+}
+
+/* optional heading accent for dark mode */
+.cv-section > h2::after {
+  content: "";
+  display: block;
+  width: 42px;
+  height: 3px;
+  margin-top: 0.25rem;
+  border-radius: 999px;
+  background: linear-gradient(90deg, #6fb3b8, #c59cff);
+}
+
+/* Tighter list spacing for CV feel */
+.cv-section ul {
+  margin-top: 0.3rem;
+  margin-bottom: 0.3rem;
+}
+
+/* Make the layout row stretch children to equal height */
+.quarto-layout-row {
+  align-items: stretch;
+}
+
+/* Ensure each column behaves like a flex column so .cv-section fills */
+#first-column,
+#second-column {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Let the cv-section expand to fill the column height if needed */
+#first-column .cv-section,
+#second-column .cv-section {
+  flex: 1 1 auto;
+}
+
+
+/* Responsive width */
+/* main.content {
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+*/
+
+/* Publication cards */
+.pub-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.pub-list li {
+  margin-bottom: 0.6rem;
+}
+
+.pub-btn {
+  display: inline-block;
+  width: 100%;
+  text-align: left;
+  padding: 0.7rem 0.9rem;
+  border-radius: 10px;
+  border: 1px solid rgba(255,255,255,0.08);
+  background: rgba(18, 18, 22, 0.95);
+  text-decoration: none;
+  color: #f0f0f0;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.6);
+  transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease, background-color 0.15s ease;
+}
+
+.pub-btn:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.9);
+  border-color: #6fb3b8;
+  background-color: rgba(32, 32, 40, 0.98);
+}
+
+.pub-title {
+  font-weight: 600;
+  display: block;
+}
+
+.pub-meta {
+  font-size: 0.9rem;
+  color: #c0c0c0;
+  display: block;
+  margin-top: 0.1rem;
+}
+
+.about-photo {
+  display: block;
+  margin: 2em auto;        /* centers the image horizontally */
+  width: 100%;            /* sets a fixed width for the profile photo */
+  max-width: 100%;         /* makes the photo responsive */
+  transition: transform 0.2s;
+}
+.about-photo:hover {
+  transform: scale(1.20);  /* zoom on hover */
+}
+
+li.no-bullet {
+  list-style-type: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+// title photo layout
+.title-photo {
+  display: block;
+  margin: 2em auto;        /* centers the image horizontally */
+  width: 100%;            /* sets a fixed width for the profile photo */
+  max-width: 100%;         /* makes the photo responsive */
+  border-radius: 8px;      /* makes the photo circular */
+  transition: transform 0.2s;
+}
+.title-photo:hover {
+  transform: scale(1.20);  /* zoom on hover */
+}
+
+
+
+/* scroll effect  */
+.scroll-down-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 1rem 0 2rem 0;
+}
+
+.scroll-down-gif {
+  width: 150px;
+  /* max-width: 180vw; */
+  transition: transform 0.25s ease, opacity 0.25s ease;
+  cursor: pointer;
+}
+
+.scroll-down-gif:hover {
+  transform: scale(1.15);
+  opacity: 0.9;
+}
+
+
+/* scroll down -not used */
+.scroll-reveal summary {
+  list-style: none;
+  cursor: pointer;
+}
+
+.scroll-reveal summary::-webkit-details-marker {
+  display: none;
+}
+
+.reveal-content {
+  animation: fadeDown 0.6s ease-out;
+}
+
+@keyframes fadeDown {
+  from {
+    opacity: 0;
+    transform: translateY(-14px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+
+
+
+/* photo grid version 2*/
+
+.photo-grid2 a {
+  display: block;
+  width: 100%;
+  text-align: center;
+}
+
+.photo-grid2 {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 2em auto;
+  max-width: 1200px;
+  justify-items: center;
+  align-items: center;
+}
+.photo-grid2 img:hover {
+  transform: scale(1.05);
+}
+
+.photo-grid2 img {
+  transition: transform 0.2s ease, filter 0.2s ease;
+  filter: grayscale(30%) brightness(0.9);  /* muted default */
+}
+
+.photo-grid2 a:hover img {
+  transform: scale(1.03);
+  filter: grayscale(0%) brightness(1.1) saturate(1.2);
+}
+
+/* photo grid photos modified to be envenly shaped*/
+.photo-item {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.photo-item img {
+  width: 100%;
+  max-width: 250px;
+  height: auto;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  transition: transform 0.2s ease;
+}
+
+.photo-item img:hover {
+  transform: scale(1.05);
+}
+
+
+// index page tile sets
+.tile-logos a {
+  display: block;
+  width: 100%;
+  text-align: center;
+}
+
+.tile-logos {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 2em auto;
+  max-width: 1200px;
+  justify-items: center;
+  align-items: center;
+}
+.tile-logos img:hover {
+  transform: scale(1.05);
+}
+
+.tile-logos img {
+  transition: transform 0.2s ease, filter 0.2s ease;
+  filter: grayscale(30%) brightness(0.9);  /* muted default */
+}
+
+.tile-logos a:hover img {
+  transform: scale(1.03);
+  filter: grayscale(0%) brightness(1.1) saturate(1.2);
+}
+
+

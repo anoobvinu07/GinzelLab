@@ -3,20 +3,66 @@ project:
   output-dir: docs
 
 website:
-  title: "GinzelLab"
+  title: "Forest Health Laboratory"
+  description: "Lab website for Matthew Ginzel"
+  image: img/purdue-logo.jpg
+  favicon: img/purdue-logo.jpg
+  
+  # start of the navigation bar at the top of the website
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    pinned: true
+    logo: /img/purdue-logo.jpg
+    
+    # your sub-pages
+    right:
+      - text: "Research"
+        href: research/research.qmd
+      - text: "Lab Members"
+        href: lab_members/lab_members.qmd
+      - text: "Courses"
+        href: courses/courses.qmd
+      - text: "Publications"
+        href: publications/publications.qmd
+      - text: "Links"
+        href: links/links.qmd
 
+      
+    
+    # your social media handles
+    left:
+      - icon: google
+        href: https://scholar.google.com/citations?hl=en&user=il2dzT0AAAAJ
+      - icon: envelope
+        aria-label: email
+        href: "mailto:mginzel@purdue.edu"
+        
+  # person-workspace
+  
+
+# Don't touch unless you know what you are doing :) ------------
+  search: 
+    location: navbar
+    type: textbox
+  page-footer: 
+    center: |
+      <span class="faux-block">
+      © Copyright <span id="year"></span> | Forest Health Lab
+      </span>
+      <script>
+        document.getElementById("year").textContent = new Date().getFullYear();
+      </script>
+ 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
+    fontsize: 1.1em
+    theme: 
+      light: style2.scss
+      dark:  style2-dark.scss
+
+      
+      # - style2-dark.scss
     toc: true
-
-editor: visual
-
+    toc-depth: 4
+    toc-title: ""
+    footnotes-hover: true
+    highlight-style: tango

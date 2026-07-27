@@ -1,0 +1,22 @@
+---
+title: "Research"
+subtitle: "" 
+format: 
+  html:
+    page-layout: full
+    toc: false
+
+# lightbox: auto
+---
+
+Olfactory signals play important roles in the life histories of insects, and orchestrate much of their courtship and mating behavior. These structurally diverse compounds are capable of broadcasting a spectrum of information and may be exploited as a bio-rational means of control. Research in my laboratory focuses on the ecology of forest beetles and their chemically-mediated mating systems. Pheromones are chemicals used for communication between members of the same species and influence behaviors such as mate location and recognition. Although relatively few volatile sex and aggregation pheromones of forest beetles have been identified, both volatile pheromones and plant-derived chemicals play essential roles in the mating systems of wood-boring beetles. Our work aims to understand how chemical signals mediate the location of host plants, mating and the allocation of resources among indigenous and invasive beetles that damage forests. Ongoing research projects in the lab include:
+
+  1. Characterizing contact and aggregation pheromones of longhorned beetles. 
+
+  2. Chemically-mediated host colonization and mating behavior of bark and ambrosia beetles (Coleoptera: Curculionidae: Scolytinae) affecting native hardwoods. 
+  
+  3. Enhanced detection methods for the walnut twig beetle and thousand cankers disease. 
+  
+  4. Exploring mechanisms of ash resistance to emerald ash borer (EAB) and increasing the efficacy of its biological control agents. 
+    
+  5. Understanding the relationship between assessments of tree health and the production of host-plant volatiles that influence the probability that a borer will attack a tree.  

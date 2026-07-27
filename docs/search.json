@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "GinzelLab",
+    "title": "Forest Health Laboratory",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome to Matthew Ginzel’s Forest Health Laboratory\nWe are broadly interested in the chemically-mediated host colonization and mating behaviors of wood-boring beetles. North American hardwood forests are increasingly threatened by a litany of indigenous and invasive wood-boring insect pests. In fact, wood-boring beetles are among the most economically important pests of woody plants in natural and managed systems. Unfortunately, the destructive nature of many wood-boring insects is exacerbated by difficulty in controlling their populations. Because they spend the majority of their lives concealed beneath the bark of trees, these insects are physically protected from sprayed pesticides. The long term goal of my research program is to develop effective pest management tactics targeting the chemically-mediated mating system of the beetles.\nThis information will be useful in establishing effective management programs, such as by optimizing survey strategies, developing arboricultural techniques to bolster resistance, and improving methods for detecting invasive species to improve the health, quality, and productivity of North American hardwood forests.\n\n\n\n\n\n\n\n\n\n\nNews and updates\n\n\n\n\n\n\n\n\n\nJan 20th, 2026\nUpdates regarding HTIRC or recruitment notice.\n\n\n\n\n\n\n\n\n\n\n\n\nNov 14th, 2025\nUpdate 2."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "research/research.html",
+    "href": "research/research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Olfactory signals play important roles in the life histories of insects, and orchestrate much of their courtship and mating behavior. These structurally diverse compounds are capable of broadcasting a spectrum of information and may be exploited as a bio-rational means of control. Research in my laboratory focuses on the ecology of forest beetles and their chemically-mediated mating systems. Pheromones are chemicals used for communication between members of the same species and influence behaviors such as mate location and recognition. Although relatively few volatile sex and aggregation pheromones of forest beetles have been identified, both volatile pheromones and plant-derived chemicals play essential roles in the mating systems of wood-boring beetles. Our work aims to understand how chemical signals mediate the location of host plants, mating and the allocation of resources among indigenous and invasive beetles that damage forests. Ongoing research projects in the lab include:\n\nCharacterizing contact and aggregation pheromones of longhorned beetles.\nChemically-mediated host colonization and mating behavior of bark and ambrosia beetles (Coleoptera: Curculionidae: Scolytinae) affecting native hardwoods.\nEnhanced detection methods for the walnut twig beetle and thousand cankers disease.\nExploring mechanisms of ash resistance to emerald ash borer (EAB) and increasing the efficacy of its biological control agents.\nUnderstanding the relationship between assessments of tree health and the production of host-plant volatiles that influence the probability that a borer will attack a tree."
+  },
+  {
+    "objectID": "lab_members/lab_members.html",
+    "href": "lab_members/lab_members.html",
+    "title": "Lab Members",
+    "section": "",
+    "text": "under construction"
   }
 ]
