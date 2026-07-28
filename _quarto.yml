@@ -45,6 +45,14 @@ website:
     type: textbox
   page-footer: 
     center: |
+      <div style="text-align: center;">
+        <a href="https://www.purdue.edu" target="_blank" rel="noopener noreferrer">
+          <img src="../img/purdue-banner.png"
+               alt="Purdue University"
+               style="height: 25%; width: 25%; object-fit: contain;" />
+        </a>
+      </div>
+    
       <span class="faux-block">
       © Copyright <span id="year"></span> | Forest Health Lab
       </span>

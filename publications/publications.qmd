@@ -1,33 +1,12 @@
 ---
-title: "Scientific output from the lab"
-subtitle: "~ publications from the group" 
+title: ""
+subtitle: "" 
 ---  
 
-
-*** 
-
-# Pre-prints or manuscripts in review:  
-:::: {.column-default}
-
-::::{layout="[ 1, 99 ]"}  
-
-::: {#first-column}
-
-:::  
-
-::: {#second-column}  
+# Publications  
+*~ scientific output from the group* 
 
 
-- Chhatre, V.E., K.C. Fetter, A.V. Gougherty, M.C. Fitzpatrick, R.Y. Soolanayakanahally, R.S. Zalensy, and S.R. Keller. Climatic niche predicts the landscape structure of locally adaptive standing genetic variation. bioRxiv preprint: <https://doi.org/10.1101/817411>
-
-:::  
-::::
-::::
-
-
-***  
-
-# Published
 ## 2020  
 
 ::::{layout="[ 1, 99 ]"}  
@@ -224,10 +203,3 @@ subtitle: "~ publications from the group"
 
 
 
-
-
-<center>
-
-<img src="../img/purdue-banner.png" style="height: 25%; width: 25%; object-fit: contain" onclick="window.open(&apos;https://www.purdue.edu&apos;, &apos;blank&apos;);"/>
-
-<center>

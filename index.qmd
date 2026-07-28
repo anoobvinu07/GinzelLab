@@ -18,19 +18,24 @@ title: ""
 ---
 
 
-
+::: {.column-page}
 ![](img/lab_logo/lab_banner.png)
+:::
 
-
-::: {.column-screen}
+::: {.column-page}
 <div class="section-separator"></div>
 :::
 
+
+
+::: {.column-page}
 # _Welcome to Matthew Ginzel's Forest Health Laboratory_
 
 We are broadly interested in the chemically-mediated host colonization and mating behaviors of wood-boring beetles. North American hardwood forests are increasingly threatened by a litany of indigenous and invasive wood-boring insect pests. In fact, wood-boring beetles are among the most economically important pests of woody plants in natural and managed systems. Unfortunately, the destructive nature of many wood-boring insects is exacerbated by difficulty in controlling their populations. Because they spend the majority of their lives concealed beneath the bark of trees, these insects are physically protected from sprayed pesticides. The long term goal of my research program is to develop effective pest management tactics targeting the chemically-mediated mating system of the beetles.
 
 This information will be useful in establishing effective management programs, such as by optimizing survey strategies, developing arboricultural techniques to bolster resistance, and improving methods for detecting invasive species to improve the health, quality, and productivity of North American hardwood forests.
+
+:::
 
 
 ::: {.column-screen}
@@ -121,6 +126,8 @@ Update 2.
 :::
 :::::
 ::::::
+
+
 
 
 

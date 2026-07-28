@@ -1,5 +1,5 @@
 ---
-title: "Lab Members"
+title: ""
 subtitle: "" 
 format: 
   html:
@@ -9,4 +9,77 @@ format:
 # lightbox: auto
 ---
 
-under construction
+<center>
+:::{.column-screen}
+![]()
+:::
+</center>
+
+
+# Prospective students
+I am interested in recruiting enthusiastic MS and PhD students to my research program; please contact me for more information about these opportunities. Highly motivated applicants are encouraged to pursue a [Fred M. van Eck Scholarship]() through the Hardwood Tree Improvement and Regeneration Center ([HTIRC](https://htirc.org/)).  Competitive graduate assistantships and fellowships are also available through the College of Agriculture and the [Departments of Entomology](https://ag.purdue.edu/department/entm/) and [Forestry & Natural Resources](https://ag.purdue.edu/department/fnr/).
+
+
+# Current Lab members  
+
+#### Dr. Matthew Ginzel  
+**Professor (Entomology • Forestry and natural Resources) | Director (HTIRC)** \ 
+
+| [![email](icons/email.png)](mailto:mginzel@purdue.edu) \| [![Research Gate](icons/researchgate.svg)]() \| [![Google Scholar](icons/googlescholar.svg)](https://scholar.google.com/citations?hl=en&user=il2dzT0AAAAJ) \| [![CV](icons/CV.png)](https://ag.purdue.edu/department/fnr/_docs/cv/ginzelcv.pdf)
+
+
+::::: {.column-screen}
+
+
+::: {.column-margin}
+
+|
+![](people/matthew-ginzel-profile.png){.profile-photo}
+::: 
+
+Matthew Ginzel is a Professor in the Departments of Entomology and Forestry & Natural Resources and Director of the Hardwood Tree Improvement and Regeneration Center ([HTIRC](https://htirc.org/)) at Purdue University. Matt received his B.S. in Organismal Biology from Beloit College in 1994. He received an M.S. (1999) and Ph.D. (2003) from the Department of Entomology at the University of Illinois at Urbana-Champaign. Matt is focused on advancing the science of forest protection and developing tools that reduce the impact of pests and pathogens on native hardwoods. North American hardwood forests and the benefits they provide to local, state and international stakeholders are increasingly threatened by indigenous and invasive woodboring insects and associated pathogens. Managing these pests is critical to maintaining the health and economic productivity of our forests. 
+ 
+
+
+::::  
+
+
+*** 
+
+# Alumni 
+
+#### Holly Wantuch, Post-doc (2018-2019)  
+Current Position: Entomologist/Eugene Field Office Coordinator Oregon Dept of Agriculture,Plant Protection & Conservation Programs 
+
+#### Sarah Stack, MS 2018 (co-advised with Cliff Sadof)  
+Current position: Research technician, USDA-APHIS EAB Biological Rearing Laboratory, Brighton, MI.   
+
+#### Gabriel Hughes, PhD 2016
+Current position: Postdoctoral Research Fellow with Ring Cardé at the University of California, Riverside.
+
+#### Bridget Blood, MS 2016
+Current position: PhD student with Geoff Wang in Department of Forestry and Environmental Conservation at Clemson University.
+
+#### Lindsay Patrick, MS 2014
+Current position: Plant Disease Technician/ Diagnostician, Connecticut Agricultural Experiment Station, New Haven, CT.
+
+#### Nicole VanDerLaan, MS 2013
+Current position: Quality Assurance Specialist, Indiana Department of Environmental Management, Indianapolis, IN.
+
+#### Alex Murphy, PhD 2011 (co-advised with Christian Krupke)
+Current position: Postdoctoral Research Fellow, Crop and Soil Science Department, Oregon State University
+
+#### Matt Paschen, MS 2011
+Current position: Farmer, Paschen Farms, Inc., Twelve Mile, IN.
+
+#### Annie Spikes, MS 2009
+Current position: Assistant Entomologist of the Bayer ScienceCrop Insectarium, North Carolina Museum of Life and Science. Raleigh, NC. 
+
+
+
+
+
+
+
+
+
