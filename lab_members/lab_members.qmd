@@ -17,7 +17,7 @@ format:
 
 
 # Prospective students
-I am interested in recruiting enthusiastic MS and PhD students to my research program; please contact me for more information about these opportunities. Highly motivated applicants are encouraged to pursue a [Fred M. van Eck Scholarship]() through the Hardwood Tree Improvement and Regeneration Center ([HTIRC](https://htirc.org/)).  Competitive graduate assistantships and fellowships are also available through the College of Agriculture and the [Departments of Entomology](https://ag.purdue.edu/department/entm/) and [Forestry & Natural Resources](https://ag.purdue.edu/department/fnr/).
+I am interested in recruiting enthusiastic MS and PhD students to my research program; please contact me for more information about these opportunities. Competitive graduate assistantships and fellowships are also available through the College of Agriculture and the [Departments of Entomology](https://ag.purdue.edu/department/entm/) and [Forestry & Natural Resources](https://ag.purdue.edu/department/fnr/).
 
 
 # Current Lab members  
@@ -25,8 +25,15 @@ I am interested in recruiting enthusiastic MS and PhD students to my research pr
 #### Dr. Matthew Ginzel  
 **Professor (Entomology • Forestry and natural Resources) | Director (HTIRC)** \ 
 
-| [![email](icons/email.png)](mailto:mginzel@purdue.edu) \| [![Research Gate](icons/researchgate.svg)]() \| [![Google Scholar](icons/googlescholar.svg)](https://scholar.google.com/citations?hl=en&user=il2dzT0AAAAJ) \| [![CV](icons/CV.png)](https://ag.purdue.edu/department/fnr/_docs/cv/ginzelcv.pdf)
-
+<p>
+  <a href="mailto:mginzel@purdue.edu" aria-label="email" style="text-decoration: none;">
+    <i class="bi bi-envelope"></i>
+  </a> |
+  <a href="https://scholar.google.com/citations?hl=en&user=il2dzT0AAAAJ" target="_blank" rel="noopener noreferrer" aria-label="Google Scholar" style="text-decoration: none;">
+    <i class="bi bi-google"></i>
+  </a> |
+  <a href="https://ag.purdue.edu/department/fnr/_docs/cv/ginzelcv.pdf" target="_blank" rel="noopener noreferrer">CV</a>
+</p>
 
 ::::: {.column-screen}
 

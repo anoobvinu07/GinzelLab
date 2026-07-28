@@ -45,21 +45,32 @@ website:
     type: textbox
   page-footer: 
     center: |
+
       <div style="text-align: center;">
+      <div style="display: flex; justify-content: center; align-items: center; gap: 150px; flex-wrap: wrap; margin-bottom: 12px;">
         <a href="https://www.purdue.edu" target="_blank" rel="noopener noreferrer">
-          <img src="../img/purdue-banner.png"
-               alt="Purdue University"
-               style="height: 25%; width: 25%; object-fit: contain;" />
+          <img src="/img/PU-H-Full-RGB.png" alt="Purdue University" style="height: 30px; width: auto;">
+        </a>
+        <a href="https://htirc.org/" target="_blank" rel="noopener noreferrer">
+          <img src="/img/HTIRC.png" alt="HTIRC" style="height: 35px; width: auto;">
         </a>
       </div>
-    
+
+      <div style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap; margin-bottom: 12px;">
+        <a href="https://ag.purdue.edu/" target="_blank" rel="noopener noreferrer">Purdue Agriculture</a> •
+        <a href="https://www.purdue.edu" target="_blank" rel="noopener noreferrer">Entomology</a> •
+        <a href="https://ag.purdue.edu/department/fnr/" target="_blank" rel="noopener noreferrer">Forestry and Natural Resources</a> •
+      </div>
+
       <span class="faux-block">
-      © Copyright <span id="year"></span> | Forest Health Lab
+        © Copyright <span id="year"></span> | Forest Health Laboratory
       </span>
+      </div>
+  
       <script>
         document.getElementById("year").textContent = new Date().getFullYear();
       </script>
- 
+   
 format:
   html:
     fontsize: 1.1em
