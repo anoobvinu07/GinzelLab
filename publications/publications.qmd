@@ -1,5 +1,233 @@
 ---
-title: "publications"
-format: html
----
+title: "Scientific output from the lab"
+subtitle: "~ publications from the group" 
+---  
 
+
+*** 
+
+# Pre-prints or manuscripts in review:  
+:::: {.column-default}
+
+::::{layout="[ 1, 99 ]"}  
+
+::: {#first-column}
+
+:::  
+
+::: {#second-column}  
+
+
+- Chhatre, V.E., K.C. Fetter, A.V. Gougherty, M.C. Fitzpatrick, R.Y. Soolanayakanahally, R.S. Zalensy, and S.R. Keller. Climatic niche predicts the landscape structure of locally adaptive standing genetic variation. bioRxiv preprint: <https://doi.org/10.1101/817411>
+
+:::  
+::::
+::::
+
+
+***  
+
+# Published
+## 2020  
+
+::::{layout="[ 1, 99 ]"}  
+
+::: {#first-column}
+
+:::  
+
+::: {#second-column}  
+
+- Williams, G. M., and M. D. Ginzel. 2020. Spatial and climatic factors influence ambrosia beetle (Coleoptera: Curculionidae) abundance in intensively managed plantations of eastern black walnut. Environmental Entomology 49: 49-58.  
+
+- Juzwik, J., Moore, M., Williams, G., and Ginzel, M.D. 2020 Assessment and etiology of thousand cankers disease within the native range of black walnut (Juglans nigra). Gen. Tech. Rep. SRS-250. Asheville, NC: US Department of Agriculture, Forest Service, Southern Research Station.  
+
+:::
+::::
+
+## 2019  
+
+::::{layout="[ 1, 99 ]"}  
+
+::: {#first-column}
+
+:::  
+
+::: {#second-column} 
+
+- Stack, S., C. S. Sadof and M. D. Ginzel. 2019. Effects of grafting on host plant resistance in ash (Fraxinus spp.) to emerald ash borer (Agrilus planipennis Fairmaire). Agricultural and Forest Entomology 21:180-189. 
+
+- Moore, M., J. Juzwik, F. Miller, L. Roberts, and M. D. Ginzel. 2019. Detection of Geosmithia morbida on numerous insect species in four eastern states. Plant Health Progress 
+
+:::
+::::
+
+## 2018  
+
+::::{layout="[ 1, 99 ]"}  
+
+::: {#first-column}
+
+:::  
+
+::: {#second-column} 
+
+- Miller D. R., C. M. Crowe, M. D. Ginzel, C. M. Ranger and P. B. Schultz. 2018. Comparison of baited bottle and multiple-funnel traps for ambrosia beetles (Coleoptera: Curculionidae: Scolytinae) in eastern USA. Journal of Entomological Science (in press). 
+
+- Duffy, A. G., G. P. Hughes, M. D. Ginzel, and D. S. Richmond. 2018. Volatile and contact chemical cues associated with Sphenophorus venatus and Sphenophorus parvulus (Coleoptera: Dryophthoridae) host- and mate-recognition behavior. Journal of Chemical Ecology 44: 556-564. 
+
+- Blood, B. D., W. A. Klingeman, M. A. Paschen, Đ Hadžiabdić, J. J. Couture and M. D. Ginzel. 2018. Behavioral Responses of Pityophthorus juglandis(Coleoptera: Curculionidae: Scolytinae) to Volatiles of Black Walnut and Geosmithia morbida (Ascomycota: Hypocreales: Bionectriaceae), the Causal Agent of Thousand Cankers Disease. Environmental Entomology 47:412-421.  
+
+- Hanks L.M., J. A. Mongold-Diers, T. H. Atkinson, M. K. Fierke, M. D. Ginzel, E. E. Graham, T. M. Poland, A. B. Richards, M. L. Richardson, and J. G. Millar. 2018. Blends of pheromones, with and without host plant volatiles, can attract multiple species of cerambycid beetles simultaneously. Journal of Economic Entomology 111: 716-724. 
+
+- Millar J.G., R. F. Mitchell, J. A. Mongold-Diers, Y. Zou, C. E. Bográn, M. K. Fierke, M. D. Ginzel, C. W. Johnson, J. R. Meeker, T. M. Poland, I. R. Ragenovich, and L.M. Hanks. 2018. Identifying possible pheromones of cerambycid beetles by field testing known pheromone components in four widely separated regions of the United States. Journal of Economic Entomology 111: 252–259.  
+
+:::
+::::
+
+## 2015 - 2017  
+
+::::{layout="[ 1, 99 ]"}  
+
+::: {#first-column}
+
+:::  
+
+::: {#second-column} 
+- Sadof, C.S, G. P. Hughes, A. R. Witte, D. J. Peterson, and M. D. Ginzel. 2017. Tools for Staging and Managing Emerald Ash Borer in the Urban Forest. Arboriculture and Urban Forestry 43: 1.  
+
+- Hughes, G. P., L. R. Meier, Y. Zou, J. G. Millar, L. M. Hanks, and M. D. Ginzel. 2016. Stereochemistry of fuscumol and fuscumol acetate influences attraction of longhorned beetles of the subfamily Lamiinae. Environmental Entomology 45: 1271-1275.  
+
+- Juzwik, J., M. McDermott-Kubeczko, T. J. Stewart, and M. D. Ginzel. 2016. First report of Geosmithia morbida on ambrosia beetles emerged from thousand cankers-diseased Juglans nigra in Ohio. Plant Disease http://dx.doi/org/10.1094/PDIS-10-15-1155-PDN.  
+
+- Hughes, G. P., J. E. Bello, J. G. Millar, and M. D. Ginzel. 2015. Determination of the absolute configuration of female-produced contact sex pheromone components of the longhorned beetle, Neocyltus acuminatus (F). Journal of Chemical Ecology 41: 1050-1057.  
+
+- Raje, K. R., G. P. Hughes, A. D. Gondhalekar, M. D. Ginzel, and M. E. Scharf. 2015. Toxicity of turmeric extracts to the termite Reticulitermes flavipes (Dictyoptera: Rhinotermitidae). Journal of Economic Entomology 108: 1479-1485.  
+
+- Hughes, G. P., C. S. Sadof, and M. D. Ginzel. 2015. A borer-specific assessment scheme for identifying sentinel trees to delimit invasive borers in urban forests. Arboriculture and Urban Forestry 41: 125-135.  
+
+- Juzwik, J, M. T. Banik, S. E. Reed, J. T. English, M. D Ginzel. 2015. Geosmithia morbida found on weevil species Stinomimus pallidus in Indiana.  Plant Health Progress 16: 6-10.  
+
+- Peterson, D. L., J. J. Duan, J. S. Yaninek, M. D. Ginzel, and C. S. Sadof. 2015. Growth of larval Agrilus planipennis (Coleoptera: Buprestidae) and fitness of Tetrastichus planipennisi (Hymenoptera: Eulophidae)in blue ash (Fraxinus quadrangulata) and green ash (F. pennsylvanica). Environmental Entomology 44: 1512-1521.  
+
+- Reed, S. E., J. Juzwik, J. T. English, and M. D. Ginzel. 2015. Colonization of artificially stressed black walnut trees by ambrosia beetles, bark beetles and other weevil species (Coleoptera: Curculionidae) in Indiana and Missouri. Environmental Entomology 44: 1455-1464.  
+
+:::
+::::
+
+## 2011 - 2013  
+
+::::{layout="[ 1, 99 ]"}  
+
+::: {#first-column}
+
+:::  
+
+::: {#second-column} 
+
+- VanDerLaan, N. R., and M. D. Ginzel. 2013. The capacity of conopthorin to enhance the attraction of two Xylosandrus species (Coleoptera: Curculionidae: Scolytinae) to ethanol and the efficacy of verbenone as a repellent. Agricultural and Forest Entomology 15: 391–397.  
+
+- Hughes, G. P., Zou, Y., Millar, J. G., and M. D. Ginzel. 2013. Male-produced pheromone of the North American lamiine Astyleiopus variegatus (Coleoptera: Cerambycidae) is composed of (S)-fuscumol and (S)-fuscumol acetate. Canadian Entomologist 145: 327-332.  
+
+- Song, M., Kim A. C., Gorzalski A. J., MacLean M., Young S., Ginzel M. D., Blomquist G. J., and C. Tittiger. 2013. Functional characterization of myrcene hydroxylases from two geographically distinct Ips pini populations. Insect Biochemistry and Molecular Biology 43: 336-343.  
+
+- Paschen, M. A., N. Schiff, and M. D. Ginzel. 2012. Role of volatile semiochemicals in the host and mate location behavior of Mallodon dasystomus (Coleoptera: Cerambycidae). Journal of Insect Behavior 25: 569-577.  
+
+- Hughes, G. P., A. E. Spikes, J. D. Holland, and M. D. Ginzel. 2011. Evidence for the stratification of hydrocarbons in the epicuticular wax layer of female Megacyllene robinae (Coleoptera: Cerambycidae). Chemoecology 21: 99-105.  
+
+- Mitchell, R. F, E. E. Graham, J. C. H. Wong, P. F. Reagel, B. L. Striman, G. P Hughes, M. A. Paschen, M .D. Ginzel, J. G. Millar, and L. M. Hanks. 2011. Fuscomol and fuscomol acetate are general attractants for many species of cerambycid beetles in the subfamily Lamiinae. Entomologia Experimentalis et Applicata 141: 71-77.  
+
+:::
+::::
+
+## 2002 - 2010  
+
+::::{layout="[ 1, 99 ]"}  
+
+::: {#first-column}
+
+:::  
+
+::: {#second-column} 
+
+- Ginzel M.D. 2010. Olfactory Signals, in M. Breed and J. Moore (eds.) Encyclopedia of Animal Behavior. Elsevier Ltd., Oxford, UK.  
+
+- Spikes, A. E., M. A. Paschen, J. G. Millar, J. Moreira, P. B. Hamel, N. Schiff, and M. D. Ginzel. 2010. First contact pheromone identified for a longhorned beetle (Coleoptera: Cerambycidae) in the subfamilty Prioninae. Journal of Chemical Ecology 36: 943-954.  
+
+- Ginzel, M. D. 2010. Hydrocarbons as contact pheromones of longhorned beetles (Coleoptera: Cerambycidae), Pp. 375-389. In G. J. Blomquist and A. G. Bagnères (eds.) Insect Hydrocarbons: Biology, Biochemistry and Chemical Ecology. Cambridge Press, New York.  
+
+- Ginzel, M. D. 2010. Walnut insects: ecology and control, in D. Pimental (ed.) Encyclopedia of Pest Management. Taylor & Francis, London.  
+
+- Murphy, A. F., M. D. Ginzel, and C. H. Krupke. 2010. Evaluating western corn rootworm (Coleoptera: Chrysomelidae) emergence and root damage in a seed mix refuge. Journal of Economic Entomology 103: 147-157.  
+
+- Bearfield, J.C., A.G. Henry, C. Tittiger, G.J. Blomquist, and M.D. Ginzel. 2009. Two regulatory mechanisms of monoterpenoid pheromone production in two Ips spp. of bark beetles. Journal of Chemical Ecology 35: 689-697.  
+
+- Ray, A. M., M. D. Ginzel, & L. M. Hanks. 2009. Male Megacyllene robiniae (Coleoptera: Cerambycidae) use multiple tactics when aggressively competing for mates. Environmental Entomology 38: 425-432.  
+
+- Sandstrom P., M.D. Ginzel, J.C. Bearfield, W.H. Welch, G.J. Blomquist, and C. Tittiger. 2008. Myrcene hydroxylase do not determine enantiomeric composition of pheromonal ipsdienol in Ips spp. Journal of Chemical Ecology 34: 1584-1592.  
+
+- Lacey, E.S., M.D. Ginzel, J.G. Millar, and L.M. Hanks. 2008. A major component of the contact sex pheromone of the cerambycid beetle, Neoclytus acuminatus acuminatus is 7-methylheptacosane. Physiological Entomology 33: 209-216.  
+
+- Ginzel, M.D., J.C. Bearfield, C.I Keeling, C.C. McCormack, G.J. Blomquist, and C. Tittiger. 2007. Antennally-mediated negative feedback regulation of pheromone production in the pine engravaer, Ips pini. Naturwissenschaften 94: 61-64.  
+
+- Ginzel, M.D., J.A. Moreira, A.M. Ray, J.G. Millar, and L.M. Hanks. 2006. (Z)-9-Nonacosene-major component of the contact sex pheromone of the beetle, Megacyllene caryae. Journal of Chemical Ecology 32: 435-451.  
+
+- Ellis, J. A., A. D. Walter, J. F. Tooker, M. D. Ginzel, P. F. Reagel, E. S. Lacey, A. B. Bennett, E. M. Grossman, and L. M. Hanks. 2005. An evaluation of conservation biological control in urban landscapes: Manipulating parasitoids of bagworm (Lepidoptera: Psychidae) with flowering forbs. Biological Control 34: 99-107.  
+
+- Ginzel, M. D., and L. M. Hanks. 2005. Role of host plant volatiles in mate location for three species of longhorned beetles. Journal of Chemical Ecology 31: 213-217.  
+
+- Lacey, E. S., M. D. Ginzel, J. G. Millar, and L. M. Hanks.  2004.  Male-produced aggregation pheromone of the cerambycid beetle Neoclytus acuminatus acuminatus. Journal of Chemical Ecology 30: 1493-1507.  
+
+- Ginzel, M. D., J. G. Millar, and L. M. Hanks.  2003.  Z-9-Pentacosene: contact pheromone of the longhorned beetle Megacyllene robiniae.  Chemoecology 13: 135-141.  
+
+- Ginzel, M. D., and L. M. Hanks.  2003.  Contact pheromones as mate recognition cues of four species of longhorned beetles (Coleoptera: Cerambycidae).  Journal of Insect Behavior 16: 181-187.  
+
+- Ginzel, M. D., G. J. Blomquist, J. G. Millar, and L. M. Hanks.  2003.  The role of contact pheromones in mate location and recognition in Xylotrechus colonus.  Journal of Chemical Ecology 29: 533-545. [Erratum]. 
+
+- Reagel, P. F., M. D. Ginzel, and L. M. Hanks. 2002.  Aggregation and mate location in the red milkweed beetle (Coleoptera: Cerambycidae).  Journal of Insect Behavior 15: 811-830.  
+
+- Ginzel, M. D., and L. M. Hanks.  2002.  Evaluation of synthetic hydrocarbons for mark-recapture studies on the red milkweed beetle.  Journal of Chemical Ecology 28: 1041-1047.   
+
+
+
+:::  
+
+::::
+
+
+# Extension  
+
+
+::::{layout="[ 1, 99 ]"}  
+
+::: {#first-column}
+
+:::  
+
+::: {#second-column}  
+
+- Ginzel, M.D., and Juzwik, J. 2014. Geosmithia morbida, the Causal Agent of Thousand Cankers Disease, Found in Indiana. Purdue University Cooperative Extension Service (HN-89-W).  
+
+- Marshall, P., V. Burkle, M. D. Ginzel, and A. Nagle. 2012. The Indiana quarantine for Thousand Canker Disease (TCD) of black walnut trees. Indiana Department of Natural Resources and Purdue University.  
+
+- Marshall, P., M. McDonough, M. D. Ginzel, and J. Ellis. 2011. The Indiana quarantine for Thousand Canker Disease (TCD) of black walnut trees. Indiana Department of Natural Resources and Purdue University.  
+
+- Barnd B.D., P.M. Pijut, and M.D. Ginzel. 2008. [Insects Affecting Hardwood Tree Plantings. - FNR-227-W](extension/FNR-227.pdf) 
+
+- Barnd, B.D., and M.D. Ginzel. 2008. [Causes of Gummosis in Black Cherry (Prunus serotina). - FNR-229-W](extension/FNR-229.pdf)  
+
+:::  
+
+::::
+
+
+
+
+
+
+
+<center>
+
+<img src="../img/purdue-banner.png" style="height: 25%; width: 25%; object-fit: contain" onclick="window.open(&apos;https://www.purdue.edu&apos;, &apos;blank&apos;);"/>
+
+<center>

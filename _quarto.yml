@@ -5,13 +5,13 @@ project:
 website:
   title: "Forest Health Laboratory"
   description: "Lab website for Matthew Ginzel"
-  image: img/purdue-logo.jpg
-  favicon: img/purdue-logo.jpg
+  image: img/purdue-logo.png
+  favicon: img/purdue-logo.png
   
   # start of the navigation bar at the top of the website
   navbar:
     pinned: true
-    logo: /img/purdue-logo.jpg
+    logo: img/lab_logo/lab_logo.png
     
     # your sub-pages
     right:

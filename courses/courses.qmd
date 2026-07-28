@@ -1,5 +1,83 @@
 ---
-title: "courses"
-format: html
+title: "Courses"
+pagetitle: "Courses and syllabus"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    page-layout: full
 ---
 
+_Last updated on July 2026_
+
+:::: {.column-page}
+::: {.cv-hero}
+<div class="cv-name">FOREST ENTOMOLOGY</div>
+<div class="cv-title">ENTM 441 and FNR 441 · offered fall of odd number years</div>
+
+<div class="cv-actions">
+  [Download Syllabus](syllabus/ENTM-FNR-441.pdf){.btn .btn-outline-primary}
+</div>
+
+
+An introduction to the identity, natural history and management of insects affecting forest ecosystems. This course focuses on the biodiversity, natural history and ecology of forest pests; forecasting and assessing the risk of insect outbreaks; and silvicultural, biological and chemical strategies for preventing and managing insect pests. The goals of this course are broadly classified into understanding the identity, ecology, and management of forest insect pests.
+:::
+
+
+::: {.callout-note collapse="true" appearance="minimal"}
+## Course Objectives 
+
+- Understand classification, biology, natural history and diversity of insects affecting forest ecosystems.  
+
+-  Identify insects common to forests and recognize their damage.  
+
+-  Understand the ecology of forest pests; including host-plant interactions, population dynamics, and natural enemies of forest insects.  
+
+- Appreciate insect sampling in forest ecosystems, with particular attention paid to monitoring, forecasting and assessing the risk of insect outbreaks.  
+
+- Illustrate the importance of silvicultural practices and management of natural enemies in preventing insect outbreaks. 
+
+- Recognize the importance of cultural, physical, biological, and chemical strategies for preventing, controlling and managing forest pests.  
+
+- Foster an appreciation for the significance of research on insect pests of forests.  
+
+:::
+
+::::
+
+
+
+:::: {.column-page}
+::: {.cv-hero}
+<div class="cv-name">ADVANCED INSECT BEHAVIOR</div>
+<div class="cv-title">ENTM 615 · offered spring of even numbered years</div>
+
+<div class="cv-actions">
+  [Download Syllabus](syllabus/ENTM-615.pdf){.btn .btn-outline-primary}
+</div>
+
+A graduate level course that provides training in current concepts and methods of insect behavioral research. Emphasis is placed on understanding fundamental concepts that ultimately define insect behavior. By discussing and analyzing the primary literature, we will explore the ecological and evolutionary significance of insect behaviors and the mechanisms that underlie them. Each topic will be introduced with a lecture and the following class period will be devoted to discussing related primary literature.  
+:::
+
+
+::: {.callout-note collapse="true" appearance="minimal"}
+## Course Objectives 
+
+- Understand fundamental concepts that ultimately define insect behavior.  
+
+- Appreciate the history and scope of insect behavior.  
+
+- Describe proximate and ultimate mechanisms governing behavior of insects.  
+
+- Explore external and internal processes that dictate insect behavior.  
+
+- Understand how the behavior of an insect relates to its environment and other organisms.  
+
+- Evaluate and critique primary literature on insect behavior.  
+
+- Thoroughly review research in a specific area of insect behavior.  
+
+:::
+
+::::
